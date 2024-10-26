@@ -1,3 +1,11 @@
+*.layout
+*.cbp
+unity/*.pdf
+coverage.info
+coverage
+*.gcov
+
+
 # Prerequisites
 *.d
 
@@ -6,6 +14,8 @@
 *.lo
 *.o
 *.obj
+bin
+obj
 
 # Precompiled Headers
 *.gch
